@@ -1,34 +1,67 @@
-Zheng Dong
-AI / ML engineer building agentic systems, risk analytics, and production-ready data applications.
+<div align="center">
 
-I am based in San Diego and interested in roles or collaborations around AI engineering, machine learning systems, quantitative analytics, and applied LLM products. My recent work focuses on grounding AI outputs in deterministic tools, retrieval systems, and measurable evaluation instead of relying on unsupported model guesses.
+# Zheng Dong
 
+**AI / ML Engineer | Agentic Systems | Risk Analytics | Applied LLM Products**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zheng%20Dong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengdong17/)
+[![GitHub](https://img.shields.io/badge/GitHub-zhengbrody-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhengbrody)
 
+Based in San Diego. Open to AI engineering, machine learning engineering, software engineering, and data-focused roles.
 
-What I Build
-Agentic AI systems that combine LLM reasoning with reliable tools, memory, and evaluation.
-Data and ML applications with FastAPI, Python, retrieval pipelines, and production observability.
-Quantitative analytics products across portfolio risk, forecasting, recommendation, and optimization.
-Full-stack prototypes that connect models, APIs, cloud services, and user-facing workflows.
-Selected Projects
-Project	What it demonstrates
-MindMarket	AI-native portfolio risk cockpit with deterministic Python risk metrics, FastAPI, Next.js, Supabase, Stripe, Docker, GitHub Actions, and production deployment.
-EDAgent	ReAct-based economic dispatch agent that uses CVXPY tools instead of hallucinating numeric optimization results; benchmarked against LLM-only baselines.
-Personal RAG Q&A System	RAG application with anti-hallucination controls, confidence scoring, source tracing, FastAPI endpoints, and monitoring hooks.
-Technical Focus
-Languages: Python, SQL, TypeScript
-AI / ML: LLM agents, RAG, embeddings, evaluation, recommender systems, reinforcement learning, forecasting
-Backend / Data: FastAPI, Pydantic, pandas, NumPy, scikit-learn, CVXPY, PostgreSQL
-Cloud / Product: AWS Lambda, SQS, DynamoDB, Docker, GitHub Actions, Supabase, Stripe, Streamlit, Next.js
+</div>
 
-Currently Exploring
-More reliable agent architectures for tool use, planning, and numerical correctness.
-Applied AI products where model output must be grounded in source data or deterministic computation.
-ML systems design, retrieval quality, production monitoring, and evaluation workflows.
-Connect
-I am open to software engineering, AI engineering, ML engineering, and data-focused roles, especially teams building applied AI products with real users and measurable reliability requirements.
+---
 
-LinkedIn: linkedin.com/in/zhengdong17
-GitHub: github.com/zhengbrody
+## About
+
+I build AI and data products where model output needs to be grounded in reliable computation, source data, and measurable evaluation.
+
+My recent work focuses on:
+
+- Agentic AI systems with tool use, memory, planning, and evaluation.
+- Retrieval-augmented generation systems with anti-hallucination controls.
+- Quantitative analytics products for portfolio risk, optimization, forecasting, and decision support.
+- Production-oriented applications using Python, FastAPI, Next.js, cloud services, CI/CD, and observability.
+
+---
+
+## Featured Work
+
+| Project | Focus | Why it matters |
+| --- | --- | --- |
+| [MindMarket](https://github.com/zhengbrody/PersonalFinancialRiskManagement) | AI-native portfolio risk cockpit | Combines deterministic Python risk metrics with a production SaaS stack: FastAPI, Next.js, Supabase, Stripe, Docker, GitHub Actions, and deployment workflows. |
+| [EDAgent](https://github.com/zhengbrody/ED-agent) | Tool-grounded optimization agent | Uses a ReAct agent with CVXPY tools for economic dispatch, avoiding LLM-only numerical hallucination and benchmarking against baseline model behavior. |
+| [Personal RAG Q&A System](https://github.com/zhengbrody/multimodal-rag-system) | Reliable retrieval and Q&A | Implements RAG with source tracing, confidence scoring, strict prompting, FastAPI endpoints, monitoring hooks, and feedback collection. |
+
+---
+
+## Technical Stack
+
+| Area | Tools |
+| --- | --- |
+| Languages | Python, SQL, TypeScript |
+| AI / ML | LLM agents, RAG, embeddings, evaluation, recommender systems, reinforcement learning, forecasting |
+| Backend / Data | FastAPI, Pydantic, pandas, NumPy, scikit-learn, CVXPY, PostgreSQL |
+| Product / Cloud | Next.js, Streamlit, Docker, GitHub Actions, AWS Lambda, SQS, DynamoDB, Supabase, Stripe |
+
+---
+
+## Current Interests
+
+- Reliable agent architectures for tool use, numerical correctness, and planning.
+- Applied AI products where model responses must be grounded in deterministic systems.
+- ML systems design, retrieval quality, production monitoring, and evaluation workflows.
+
+---
+
+## Connect
+
+I am open to roles and collaborations with teams building applied AI products for real users.
+
+- LinkedIn: [linkedin.com/in/zhengdong17](https://www.linkedin.com/in/zhengdong17/)
+- GitHub: [github.com/zhengbrody](https://github.com/zhengbrody)
+
+---
+
 Copyright © 2026 Zheng Dong. This profile README is personal portfolio content and is not licensed for reuse, redistribution, or impersonation.
