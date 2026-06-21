@@ -2,37 +2,49 @@
 
 # Zheng Dong
 
-**AI / ML Engineer | Agentic Systems | Risk Analytics | Applied LLM Products**
+**UC San Diego ECE M.S. | Machine Learning & Data Science | LLM Systems, Trustworthy ML, Data-centric AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zheng%20Dong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengdong17/)
 [![GitHub](https://img.shields.io/badge/GitHub-zhengbrody-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhengbrody)
 
-Based in San Diego. Open to AI engineering, machine learning engineering, software engineering, and data-focused roles.
+Based in San Diego. I am looking for Fall 2026 research opportunities with UC San Diego labs working on reliable AI systems, LLM agents, data-centric machine learning, and ML for scientific or high-stakes decision support.
 
 </div>
 
 ---
 
-## About
+## Research Profile
 
-I build AI and data products where model output needs to be grounded in reliable computation, source data, and measurable evaluation.
+I build machine learning systems where model outputs need to be grounded in source data, deterministic computation, and measurable evaluation. My background combines UCSD graduate coursework in machine learning for physical applications, statistical learning, big network data, and computational evolutionary biology with applied projects in LLM agents, RAG, entity extraction, risk analytics, and high-throughput ML services.
 
-My recent work focuses on:
+Current research interests:
 
-- Agentic AI systems with tool use, memory, planning, and evaluation.
-- Retrieval-augmented generation systems with anti-hallucination controls.
-- Quantitative analytics products for portfolio risk, optimization, forecasting, and decision support.
-- Production-oriented applications using Python, FastAPI, Next.js, cloud services, CI/CD, and observability.
+- **Reliable LLM and agent systems:** tool use, retrieval, evaluation, hallucination control, and auditable decision pipelines.
+- **Trustworthy and responsible ML:** confidence calibration, human-in-the-loop review, interpretability, fairness monitoring, and robust evaluation.
+- **Data-centric AI and ML systems:** document/entity extraction, weak supervision, data pipelines, experiment tracking, and scalable model serving.
+- **ML for physical and high-stakes systems:** time-series anomaly detection, portfolio risk analytics, energy dispatch, and scientific machine learning.
 
 ---
 
-## Featured Work
+## Research-Relevant Projects
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [MindMarket](https://github.com/zhengbrody/PersonalFinancialRiskManagement) | AI-native portfolio risk cockpit | Combines deterministic Python risk metrics with a production SaaS stack: FastAPI, Next.js, Supabase, Stripe, Docker, GitHub Actions, and deployment workflows. |
-| [EDAgent](https://github.com/zhengbrody/ED-agent) | Tool-grounded optimization agent | Uses a ReAct agent with CVXPY tools for economic dispatch, avoiding LLM-only numerical hallucination and benchmarking against baseline model behavior. |
-| [Personal RAG Q&A System](https://github.com/zhengbrody/multimodal-rag-system) | Reliable retrieval and Q&A | Implements RAG with source tracing, confidence scoring, strict prompting, FastAPI endpoints, monitoring hooks, and feedback collection. |
+| [MindMarket / PersonalFinancialRiskManagement](https://github.com/zhengbrody/PersonalFinancialRiskManagement) | LLM-grounded risk analytics | Combines deterministic VaR/CVaR, factor beta, and stress-scenario computation with an AI copilot that is grounded on computed evidence rather than free-form numerical generation. Relevant to reliable AI for high-stakes decision support. |
+| [Multimodal RAG System](https://github.com/zhengbrody/multimodal-rag-system) | Retrieval, embeddings, and evaluation | Integrates CLIP vision embeddings, text embeddings, rank-fusion reranking, FastAPI serving, and Recall@5 evaluation. Relevant to LLM reliability, retrieval quality, and grounded generation. |
+| [EDAgent](https://github.com/zhengbrody/ED-agent) | Tool-using optimization agent | Uses a ReAct-style agent with CVXPY tools for economic dispatch, separating numerical optimization from language generation. Relevant to AI agents for scientific/engineering workflows. |
+| [Kaggle LMSYS Chatbot Arena](https://github.com/zhengbrody/kaggle-LMSYS---Chatbot-Arena-Human-Preference-Predictions) | LLM preference modeling | Kaggle Silver Medal project involving large-scale model inference, preference prediction, and performance optimization. Relevant to LLM evaluation and ML systems. |
+| [Amazon Review Deception Detection](https://github.com/zhengbrody/Amazon-Review-Deception-Detection) | NLP classification | Applies text classification to deceptive-review detection, connecting NLP, trust, and high-signal evaluation. Relevant to data-centric NLP and trustworthy ML. |
+
+---
+
+## Selected Experience
+
+| Role | Research-relevant work |
+| --- | --- |
+| Machine Learning Engineer Intern, Permitfolio | Built an auditable LLM-assisted asset-classification service for RegTech compliance with human-in-the-loop review, confidence calibration, review flags, model-version tracking, and reproducible tests. |
+| Machine Learning Research Assistant, Penn State | Built an NLP entity-extraction pipeline with spaCy, Transformers/BERT fine-tuning, Kafka streaming, MLflow experiment tracking, Optuna tuning, and evaluation metrics. |
+| Machine Learning Engineer Intern, Allianz Insurance | Built fraud detection and model-serving pipelines with privacy-preserving feature engineering, fairness monitoring, Redis-backed serving, and latency optimization. |
 
 ---
 
@@ -40,24 +52,22 @@ My recent work focuses on:
 
 | Area | Tools |
 | --- | --- |
-| Languages | Python, SQL, TypeScript |
-| AI / ML | LLM agents, RAG, embeddings, evaluation, recommender systems, reinforcement learning, forecasting |
-| Backend / Data | FastAPI, Pydantic, pandas, NumPy, scikit-learn, CVXPY, PostgreSQL |
-| Product / Cloud | Next.js, Streamlit, Docker, GitHub Actions, AWS Lambda, SQS, DynamoDB, Supabase, Stripe |
+| ML / AI | PyTorch, Transformers, BERT, LLMs, RAG, CLIP, embeddings, scikit-learn, MLflow, Optuna |
+| Data / Systems | Python, SQL, Kafka, FastAPI, Flask, PostgreSQL, Redis, PySpark, Docker, Linux |
+| Evaluation | Recall@K, F1, precision/false-positive analysis, confidence calibration, fairness metrics, pytest, JMeter |
+| Engineering | TypeScript, Next.js, GitHub Actions, AWS EC2/Lambda/S3, CI/CD, observability |
 
 ---
 
-## Current Interests
+## Coursework
 
-- Reliable agent architectures for tool use, numerical correctness, and planning.
-- Applied AI products where model responses must be grounded in deterministic systems.
-- ML systems design, retrieval quality, production monitoring, and evaluation workflows.
+UC San Diego ECE M.S. coursework includes Machine Learning for Physical Applications, Computational Evolutionary Biology, Machine Learning for Music, Statistical Learning, Big Network Data, Linear Algebra and Applications, and Smart Grids.
 
 ---
 
 ## Connect
 
-I am open to roles and collaborations with teams building applied AI products for real users.
+I am open to UC San Diego research collaborations starting Fall 2026, especially projects that can lead to a workshop, conference, or systems paper.
 
 - LinkedIn: [linkedin.com/in/zhengdong17](https://www.linkedin.com/in/zhengdong17/)
 - GitHub: [github.com/zhengbrody](https://github.com/zhengbrody)
