@@ -15,7 +15,7 @@ Based in San Diego. I am looking for Fall 2026 research opportunities with UC Sa
 
 ## Research Profile
 
-I build machine learning systems where model outputs need to be grounded in source data, deterministic computation, and measurable evaluation. My background combines UCSD graduate coursework in machine learning for physical applications, statistical learning, big network data, and computational evolutionary biology with applied projects in LLM agents, RAG, entity extraction, risk analytics, and high-throughput ML services.
+I build machine learning systems where model outputs need to be grounded in source data, deterministic computation, and measurable evaluation. My background combines UCSD graduate coursework in machine learning for physical applications, statistical learning, big network data, and computational evolutionary biology with applied projects in LLM agents, RAG, entity extraction, structured planning systems, risk analytics, and high-throughput ML services.
 
 Current research interests:
 
@@ -31,6 +31,7 @@ Current research interests:
 | Project | Focus | Why it matters |
 | --- | --- | --- |
 | [MindMarket / PersonalFinancialRiskManagement](https://github.com/zhengbrody/PersonalFinancialRiskManagement) | LLM-grounded risk analytics | Combines deterministic VaR/CVaR, factor beta, and stress-scenario computation with an AI copilot that is grounded on computed evidence rather than free-form numerical generation. Relevant to reliable AI for high-stakes decision support. |
+| [PostBeacon](https://github.com/zhengbrody/PostBeacon) | Product-facing LLM planning system | Turns a product URL into a structured 0-to-1 launch plan with diagnosis, positioning, channel ranking, native content, and launch calendar. Relevant to applied LLM workflows, web-grounded product understanding, structured generation, and human-in-the-loop execution. |
 | [Multimodal RAG System](https://github.com/zhengbrody/multimodal-rag-system) | Retrieval, embeddings, and evaluation | Integrates CLIP vision embeddings, text embeddings, rank-fusion reranking, FastAPI serving, and Recall@5 evaluation. Relevant to LLM reliability, retrieval quality, and grounded generation. |
 | [EDAgent](https://github.com/zhengbrody/ED-agent) | Tool-using optimization agent | Uses a ReAct-style agent with CVXPY tools for economic dispatch, separating numerical optimization from language generation. Relevant to AI agents for scientific/engineering workflows. |
 | [Kaggle LMSYS Chatbot Arena](https://github.com/zhengbrody/kaggle-LMSYS---Chatbot-Arena-Human-Preference-Predictions) | LLM preference modeling | Kaggle Silver Medal project involving large-scale model inference, preference prediction, and performance optimization. Relevant to LLM evaluation and ML systems. |
@@ -55,7 +56,7 @@ Current research interests:
 | ML / AI | PyTorch, Transformers, BERT, LLMs, RAG, CLIP, embeddings, scikit-learn, MLflow, Optuna |
 | Data / Systems | Python, SQL, Kafka, FastAPI, Flask, PostgreSQL, Redis, PySpark, Docker, Linux |
 | Evaluation | Recall@K, F1, precision/false-positive analysis, confidence calibration, fairness metrics, pytest, JMeter |
-| Engineering | TypeScript, Next.js, GitHub Actions, AWS EC2/Lambda/S3, CI/CD, observability |
+| Engineering | TypeScript, Next.js, React, Supabase, Vercel, GitHub Actions, AWS EC2/Lambda/S3, CI/CD, observability |
 
 ---
 
